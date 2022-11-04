@@ -4,7 +4,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-DEVICE_PATH := device/asus/sake
+DEVICE_PATH := device/asus/anakin
 
 include build/make/target/board/BoardConfigMainlineCommon.mk
 
@@ -59,7 +59,7 @@ BOARD_SUPPORTS_SOUND_TRIGGER := true
 BOARD_USES_ALSA_AUDIO := true
 
 # Biometrics
-TARGET_SURFACEFLINGER_UDFPS_LIB := //$(DEVICE_PATH):libudfps_extension.sake
+TARGET_SURFACEFLINGER_UDFPS_LIB := //$(DEVICE_PATH):libudfps_extension.anakin
 
 # Bluetooth
 BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := $(DEVICE_PATH)/bluetooth/include
@@ -217,7 +217,7 @@ BOARD_RAMDISK_USE_LZ4 := true
 
 BOARD_KERNEL_IMAGE_NAME := Image
 BOARD_USES_GENERIC_KERNEL_IMAGE := true
-TARGET_KERNEL_CONFIG := vendor/$(PRODUCT_DEVICE)_defconfig
+TARGET_KERNEL_CONFIG := vendor/ZS673KS-perf_defconfig
 TARGET_KERNEL_SOURCE := kernel/asus/sm8350
 
 # Partitions
