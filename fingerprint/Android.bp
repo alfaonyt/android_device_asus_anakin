@@ -1,8 +1,8 @@
 cc_binary {
-    name: "android.hardware.biometrics.fingerprint@2.3-service.sake",
+    name: "android.hardware.biometrics.fingerprint@2.3-service.anakin",
     defaults: ["hidl_defaults"],
-    init_rc: ["android.hardware.biometrics.fingerprint@2.3-service.sake.rc"],
-    vintf_fragments: ["android.hardware.biometrics.fingerprint@2.3-service.sake.xml"],
+    init_rc: ["android.hardware.biometrics.fingerprint@2.3-service.anakin.rc"],
+    vintf_fragments: ["android.hardware.biometrics.fingerprint@2.3-service.anakin.xml"],
     vendor: true,
     relative_install_path: "hw",
     srcs: [
