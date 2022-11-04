@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- this xml file declares which platform apps that need to access internal apis. -->
+<permissions>
+  <!-- hotword enrollment -->
+    <privapp-permissions package="com.android.hotwordenrollment.okgoogle">
+        <permission name="android.permission.keyphrase_enrollment_application"/>
+        <permission name="android.permission.interact_across_users"/>
+    </privapp-permissions>
+    <privapp-permissions package="com.android.hotwordenrollment.xgoogle">
+        <permission name="android.permission.keyphrase_enrollment_application"/>
+        <permission name="android.permission.interact_across_users"/>
+    </privapp-permissions>
+</permissions>
