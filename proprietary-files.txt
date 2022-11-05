@@ -148,14 +148,14 @@ vendor/firmware/a660_zap.elf
 vendor/firmware/a660_zap.mdt
 
 # Audio
-vendor/etc/acdbdata/ZS590KS/ZS590KS_Bluetooth_cal.acdb
-vendor/etc/acdbdata/ZS590KS/ZS590KS_General_cal.acdb
-vendor/etc/acdbdata/ZS590KS/ZS590KS_Global_cal.acdb
-vendor/etc/acdbdata/ZS590KS/ZS590KS_Handset_cal.acdb
-vendor/etc/acdbdata/ZS590KS/ZS590KS_Hdmi_cal.acdb
-vendor/etc/acdbdata/ZS590KS/ZS590KS_Headset_cal.acdb
-vendor/etc/acdbdata/ZS590KS/ZS590KS_Speaker_cal.acdb
-vendor/etc/acdbdata/ZS590KS/ZS590KS_workspaceFile.qwsp
+vendor/etc/acdbdata/ZS673KS/ZS673KS_Bluetooth_cal.acdb
+vendor/etc/acdbdata/ZS673KS/ZS673KS_General_cal.acdb
+vendor/etc/acdbdata/ZS673KS/ZS673KS_Global_cal.acdb
+vendor/etc/acdbdata/ZS673KS/ZS673KS_Handset_cal.acdb
+vendor/etc/acdbdata/ZS673KS/ZS673KS_Hdmi_cal.acdb
+vendor/etc/acdbdata/ZS673KS/ZS673KS_Headset_cal.acdb
+vendor/etc/acdbdata/ZS673KS/ZS673KS_Speaker_cal.acdb
+vendor/etc/acdbdata/ZS673KS/ZS673KS_workspaceFile.qwsp
 vendor/etc/acdbdata/nn_ns_models/fai__2.0.0_0.1__3.0.0_0.0__eai_1.00.pmd
 vendor/etc/acdbdata/nn_ns_models/fai__2.0.0_0.1__3.0.0_0.0__eai_1.10.pmd
 vendor/etc/acdbdata/nn_ns_models/fai__2.3.0_0.1__3.0.0_0.0__eai_1.00.pmd
