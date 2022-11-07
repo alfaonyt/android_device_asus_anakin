@@ -25,7 +25,7 @@ cc_binary {
 }
 
 cc_library_static {
-    name: "libudfps_extension.sake",
+    name: "libudfps_extension.anakin",
     srcs: ["UdfpsExtension.cpp"],
     include_dirs: [
         "frameworks/native/services/surfaceflinger/CompositionEngine/include"
