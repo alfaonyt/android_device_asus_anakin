@@ -10,7 +10,7 @@ etc/hardcore_X1.json
 etc/hardcore_X2.json
 etc/hardcore_X3.json
 etc/x3_comb.json
-etc/permissions/asus.software.gamewidget.zenui.rog3.xml
+etc/permissions/asus.software.gamewidget.zenui.rog5.xml
 etc/permissions/asus.software.project.ZS661KS.xml
 etc/permissions/asus.software.rog.xml
 etc/permissions/asus.software.sku.WW.xml
