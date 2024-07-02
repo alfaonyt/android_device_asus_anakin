@@ -189,7 +189,7 @@ BOARD_VENDOR_KERNEL_MODULES_LOAD := \
     rmnet_core.ko \
     rmnet_ctl.ko \
     rmnet_offload.ko \
-    rmnet_shs.ko
+    rmnet_shs.ko \
     rx_macro_dlkm.ko \
     si2157.ko \
     sla.ko \
