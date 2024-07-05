@@ -308,7 +308,7 @@ TARGET_USERIMAGES_USE_F2FS := true
 
 # TODO: 
 # SELinux
-#include device/qcom/sepolicy_vndr-legacy-um/SEPolicy.mk
+include device/qcom/sepolicy_vndr-legacy-um/SEPolicy.mk
 
 #BOARD_VENDOR_SEPOLICY_DIRS += $(DEVICE_PATH)/sepolicy/vendor
 #SYSTEM_EXT_PRIVATE_SEPOLICY_DIRS += $(DEVICE_PATH)/sepolicy/private
