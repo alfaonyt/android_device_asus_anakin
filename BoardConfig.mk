@@ -179,7 +179,7 @@ BOARD_VENDOR_KERNEL_MODULES_LOAD := \
     qca_cld3_qca6750.ko \
     qca_cld3_wlan.ko \
     qca_cld3_wlan.ko \
-    qcom_edac.kov \
+    qcom_edac.ko \
     qm1d1b0004.ko \
     qm1d1c0042.ko \
     qt1010.ko \
